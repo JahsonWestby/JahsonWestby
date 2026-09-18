@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jahson Westby
 
-<!--
-**Jdubiez/Jdubiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student at the University of Illinois Chicago, focused on software engineering. I build Python applications, API integrations, and React interfaces.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full-stack applications:** React/TypeScript interfaces backed by Flask and SQLite.
+- **Data pipelines:** ingestion, normalization, fuzzy event matching, and configurable processing.
+- **Simulation and decision systems:** a custom poker engine, Monte Carlo equity estimation, and experimental MCCFR training.
+- **Media automation:** text generation, speech synthesis, captioning, and video composition.
+
+## Engineering interests
+
+Backend development, applied machine learning, automation, and making prototypes easier to run and understand.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jahsonwestby/) · [Email](mailto:jahsonwestby@gmail.com)
+
+This repository contains my introduction. My current GitHub username is **JahsonWestby**.
